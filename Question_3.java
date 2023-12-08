@@ -1,4 +1,6 @@
-    public static void main(String[] args) {
+import java.util.*;
+
+public static void main(String[] args) {
         try {
             // Configuração inicial
             int numValues = 100;
